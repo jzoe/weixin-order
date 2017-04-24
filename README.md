@@ -8,6 +8,7 @@
 - pages — 存放项目页面相关文件
 - style — 存放独立wxss样式文件，可import引入
 - utils — 存放utils文件，可require引入
+- json — 存放配置文件
 
 ### 项目截图:
 
